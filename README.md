@@ -1,5 +1,3 @@
-# Project Title
-
 # Django Invoice Project
 
 This Django project provides a RESTful API for managing invoices and their associated details. It includes two models: `Invoice` and `InvoiceDetail`, with the ability to retrieve and create invoices, along with their details.
